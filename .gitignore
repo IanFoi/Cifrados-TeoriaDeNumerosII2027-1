@@ -1,0 +1,14 @@
+dist/
+dist-*
+dist-newstyle/
+cabal.project.local
+cabal.project.local~
+.ghc.environment.*
+
+*.o
+*.hi
+*.dyn_o
+*.dyn_hi
+
+*.log
+.DS_Store
